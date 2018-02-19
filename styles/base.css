@@ -4,13 +4,6 @@ body {
     margin: 0px;
   }
   section {
-      /* border: solid 1px black; */
       margin: 0px;
       padding: 0px;
-  }
-
-  @media only screen and (min-width: 480px) {
-    body {
-        width: 480px;
-    }
   }
