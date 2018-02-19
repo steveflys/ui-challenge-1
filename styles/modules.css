@@ -1,0 +1,53 @@
+#section-a {
+    width: 480px;
+    height: 75px;
+    background-color: grey;
+}
+ 
+#section-b {
+    width: 480px;
+    height: 150px;
+    background-color: black;
+}
+#section-c {
+    width: 480px;
+    height: 125px;
+    background-color: green;
+}
+
+#section-d {
+    width: 480px;
+    height: 125px;
+    background-color: greenyellow;    
+}
+
+#section-e {
+    width: 240px;
+    height: 250px;
+    background-color: rgb(131, 197, 131);
+}
+
+#section-f {
+    width: 240px;
+    height: 250px;
+    background-color: rgb(30, 44, 30);
+}
+
+#section-g {
+    width: 240px;
+    height: 250px;
+    background-color: rgb(80, 92, 105);
+}
+
+#section-h {
+    width: 240px;
+    height: 250px;
+    background-color: rgb(206, 111, 230);
+}
+
+#section-i {
+    clear: both;
+    width: 480px;
+    height: 80px;
+    background-color: rgb(65, 57, 59);
+}
